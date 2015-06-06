@@ -1,0 +1,22 @@
+{
+  "name": "feedec",
+  "title": "feedec",
+  "id": "jid1-zS3APO6IJXoqIw",
+  "description": "a basic add-on",
+  "author": "",
+  "license": "MPL 2.0",
+  "version": "0.1",
+  "preferences": [{
+    "name": "texto",
+    "title": "Texto a utilizar",
+    "description": "Teclee el texto a utilizar",
+    "type": "string",
+    "value": ""
+    }, {
+        "name": "entero",
+        "description": "Aqui va un entero",
+        "type": "integer",
+        "value": 0,
+        "title": "Cantidad"
+        }]
+    }
